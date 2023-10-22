@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060953098849",
+    "project_id": "skripsi-c3116",
+    "storage_bucket": "skripsi-c3116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060953098849:android:953ac3da2fcfb1ef0c3820",
+        "android_client_info": {
+          "package_name": "dev.ndridm.rtkeluhanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060953098849-8q0e8gch9u11hu77mng078619i5ruknc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.ndridm.rtkeluhanapp",
+            "certificate_hash": "d55b6072d331c71b3d4489a8cffaeea77774db86"
+          }
+        },
+        {
+          "client_id": "1060953098849-694h7ec8c5oj4df71md39378jf6bq2kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7cHmF8z_op_xDYEFzmw_dfXF2WUibf5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060953098849-694h7ec8c5oj4df71md39378jf6bq2kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

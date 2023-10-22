@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#627BEF</color>
+    <color name="purple_800">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000</color>
+
+    <color name="pale_blue">#CFECEC</color>
+    <color name="bone_wthie">#F9F6EE</color>
+    <color name="silver">#DADBDD</color>
+    <color name="grey_goose">#D1D0CE</color>
+    <color name="light_teal">#B3D9D9</color>
+    <color name="dirty_white">#E8E4C9</color>
+    <color name="sunrise">#E67451</color>
+    <color name="ferrary">#F70D1A</color>
+    <color name="carbon_red">#A70D2A</color>
+    <color name="bean_red">#F75D59</color>
+    <color name="sage">#BCB88A</color>
+    <color name="pale_green">#98FB98</color>
+    <color name="forest_green">#227442</color>
+    <color name="light_salmon">#FFA07A</color>
+    <color name="oak">#806517</color>
+    <color name="cerry">#C24641</color>
+</resources>

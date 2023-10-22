@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tanya-RT</string>
+    <string name="password">Masukkan Password</string>
+    <string name="username">Masukkan Username</string>
+    <string name="login">Login</string>
+    <string name="version">version 0.0.1</string>
+    <string name="selamat_datang">Selamat Datang Aplikasi Tanya-RT</string>
+    <string name="silahkan">Silahkan Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_ket">Registrasi jika belum punya akun</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
